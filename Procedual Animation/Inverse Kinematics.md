@@ -67,6 +67,8 @@ $\theta_2$ : 두 번째 뼈의 각도 <br>
 
 - <span style="color:skyblue">**FABRIK 알고리즘(Forward And Backward Reaching Inverse Kinematics)**</span>: Forward reaching과 Backward reaching을 반복해서 관절 위치를 맞추는 IK 방법이다.
 
+- FABRIK은 크게 두 가지 단계(Forward & Backward)를 한 번의 반복(Iteration)으로 본다.
+
 
 
 
